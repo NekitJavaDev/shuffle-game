@@ -1,0 +1,13 @@
+/build
+
+#Gradle
+.gradle
+
+#IDEA
+.idea
+
+#Licenses
+/app/proguard-rules.pro
+
+#Tests
+/app/src/androidTest
